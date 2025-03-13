@@ -275,6 +275,7 @@ header {
 
 .logo img {
 	height: 20px;
+    min-height: 50px;
 }
 
 .nav-btn {

@@ -30,7 +30,7 @@
 			if (data.responseText !== '') {
 				$(formMessages).text(data.responseText);
 			} else {
-				$(formMessages).text('Oops! An error occured and your message could not be sent.');
+				$(formMessages).text('Try to hit send from your mail app, winks...');
 			}
 		});
 	});
